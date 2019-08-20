@@ -1,7 +1,7 @@
 {
   "name": "webpack-lazy-build",
   "version": "1.0.0",
-  "description": "一个快速启动的开发环境方案",
+  "description": "一个为了快速启动开发环境的懒打包方案",
   "main": "index.js",
   "scripts": {
     "start": "node ./backend/server"
